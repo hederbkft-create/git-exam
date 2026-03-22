@@ -1,4 +1,7 @@
 HEAD
+HEAD
 Temporary change
 Login feature started
 feature-login
+API feature work
+06bdda9 (4. feladat: API feature work)
